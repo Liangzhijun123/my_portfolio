@@ -73,7 +73,7 @@ const projects = [
     project: "LifeWork - Job Agency",
     year: "2024",
     type: "Internship Individual Project",
-    link: "https://www.figma.com/proto/12VF8vOuWxQJnH4ZyD99P9/internship-project---lifework?node-id=0-1963&t=kWvuOvgwwFAg0c43-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+    link: "https://drive.google.com/file/d/1LsGWy05w2MBwpY3-6tvGNP6vkepaJ8py/view?usp=sharing",
   },
  
   {
@@ -81,7 +81,7 @@ const projects = [
     project: "Casino",
     year: "2024",
     type: "Individual Project",
-    link: "https://drive.google.com/file/d/1LsGWy05w2MBwpY3-6tvGNP6vkepaJ8py/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1o2p2TXiWUYtg3rq108NOEEtkFYOBhCBc/view?usp=sharing",
   },
   {
     picture: pic12,
