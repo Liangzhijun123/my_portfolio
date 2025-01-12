@@ -31,7 +31,7 @@ const projects = [
     project: "Smoothie",
     year: "2024",
     type: "Individual Project",
-    link: "https://www.figma.com/proto/dqXTuN0fxFodAwFQkaQQLZ/smoothies?node-id=107-697&starting-point-node-id=107%3A697&t=Ng6C5VgiM058y17u-1",
+    link: "https://drive.google.com/file/d/1cWkWqoGdjx9KAaDfFpsDi8fPuPrH4nfM/view?usp=sharing",
   },
   {
     picture: picFour,
