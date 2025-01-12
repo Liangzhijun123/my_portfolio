@@ -38,14 +38,14 @@ const projects = [
     project: "Management Airport in Japan",
     year: "2024",
     type: "Individual Project",
-    link: "https://www.figma.com/proto/RtqZg8YmHdXJrNs6naLowW/management-app-for-airport-in-japan?node-id=2-2&t=wBeyt1JY8PNttAjp-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2",
+    link: "https://drive.google.com/file/d/1Hf3EUTqEahvFOLFzVhnt_2y-9l2_JADr/view?usp=sharing",
   },
   {
     picture: picFive,
     project: "Eco-Luxury Hotel",
     year: "2024",
     type: "Individual Project",
-    link: "https://www.figma.com/proto/oRICFBb36yceOWdy5s49cB/Eco-Luxury-Hotel?node-id=0-3&t=CZIZUp0WgJwijrB3-1&scaling=min-zoom&page-id=0%3A1",
+    link: "https://drive.google.com/file/d/1YgZiQ1k-qQzPUv9X0MMKoFas6uqgVymk/view?usp=sharing",
   },
   {
     picture: picSix,
@@ -59,14 +59,14 @@ const projects = [
     project: "Manga Landpage Design",
     year: "2024",
     type: "Individual Project",
-    link: "https://www.figma.com/proto/oJ7ZacNRrHJF5yApM75hGN/manga?node-id=33-93&t=FDBZLPpHpTB9K1hp-1&scaling=scale-down&page-id=0%3A1",
+    link: "https://drive.google.com/file/d/1Wn5rR9fMpPidnQ-3rSIUyBFnLOqVKRJ4/view?usp=sharing",
   },
   {
     picture: picEight,
     project: "FoodieOrder - Online Food Ordering",
     year: "2024",
     type: "Individual Project",
-    link: "https://www.figma.com/proto/CbXtLVYtZrnkUQHlwTkVKO/FoodieOrder---Online-Food-Ordering?node-id=59-58&t=3avEhp40FprRYU5c-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=59%3A58",
+    link: "https://drive.google.com/file/d/164cRn_Se7QyLH6qqWt3YwG3NkNMU9G3x/view?usp=sharing",
   },
   {
     picture: picNine,
@@ -81,14 +81,14 @@ const projects = [
     project: "Casino",
     year: "2024",
     type: "Individual Project",
-    link: "https://www.figma.com/proto/q66IPombEfO2IjlLXQAWO2/casino?node-id=1-2&node-type=frame&t=UeAP7Nc1KSDSGz7S-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2",
+    link: "https://drive.google.com/file/d/1LsGWy05w2MBwpY3-6tvGNP6vkepaJ8py/view?usp=sharing",
   },
   {
     picture: pic12,
     project: "Milestone Group Logistics",
     year: "2024",
     type: "Individual Project",
-    link: "https://www.figma.com/proto/3Kd05YVZDWfcsbxv8dBcS8/Milestone-Group-Logistics?node-id=1-2&node-type=frame&t=jTGPwK1YrP1gwrE3-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2",
+    link: "https://drive.google.com/file/d/1hgqzg6roSuj32NwwG_1SvBfKDFpzr2IB/view?usp=sharing",
   },
 ];
 
